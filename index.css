@@ -6,7 +6,7 @@ body {
   justify-content: center;
   height: 100vh;
   width: auto;
-  background: url("./IMAGES/back11.jpg");
+  background: url("../back11.jpg");
   background-size: cover;
 }
 h2 {
